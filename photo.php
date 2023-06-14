@@ -73,8 +73,8 @@
 			// 本地PHP方案
 
 			// $tulujing = "img/t/";
-			// $tuhouzhui = ".JPG";
-			// $zongshu = 97; //这里写照片总数，且后缀必须是JPG 大写，图片排序由旧到新一次是1-9999
+			// $tuhouzhui = ".jpg";
+			// $zongshu = 85; //这里写照片总数，且后缀必须是JPG 大写，图片排序由旧到新一次是1-9999
 			// $i = $zongshu;
 			// while ($i != 0) {
 			// 	echo "<article class=\"thumb img-area\"><a class=\"image my-photo\"alt=\"loading\" data-src=\"\" href=\"$tulujing$i$tuhouzhui\"><img class=\"zmki_px  my-photo\" data-src=\"$tulujing$i$tuhouzhui\" /></a><h2></h2></article>";
@@ -117,7 +117,7 @@
 						<span style="color: #b5b5b5; font-size: 0.8em;">
 						</span>
 						<p class="copyright">
-							<b>&copy; 光遇小站 </b> &nbsp; By 林 / 瑜.
+							<b>&copy; 光遇小家 </b> &nbsp; By 林 / 瑜.
 						</p>
 						<div>
 						</div>
